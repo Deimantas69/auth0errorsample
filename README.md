@@ -1,3 +1,4 @@
-# Tutorial
+# Sample project for reproducing the error
 
-This is my tutorial repository.
+replace the settings in config/accounts.inc.php
+replace the settings in login.php
